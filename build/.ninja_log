@@ -1,0 +1,15 @@
+# ninja log v5
+14	1076	7242876926740963	CMakeFiles/main.dir/src/Robot.cpp.obj	9b4cd7cbcd2d9cb0
+18	1105	7242876926800931	CMakeFiles/main.dir/src/RandomRobot.cpp.obj	d66fd3279757cf76
+8	1190	7242876927740968	CMakeFiles/main.dir/src/main.cpp.obj	a0bc8f54692ead63
+34	1214	7242876928070960	CMakeFiles/main.dir/src/Maze.cpp.obj	291884939ab0f75f
+22	1224	7242876928280966	CMakeFiles/main.dir/src/RightHandRuleRobot.cpp.obj	df51f8799f0f5733
+1225	1449	7242876930491041	main.exe	e5efc2b91c0bc484
+51	841	7242880877907392	CMakeFiles/main.dir/src/main.cpp.obj	a0bc8f54692ead63
+841	1060	7242880880062574	main.exe	e5efc2b91c0bc484
+45	831	7242881343184943	CMakeFiles/main.dir/src/main.cpp.obj	a0bc8f54692ead63
+833	1172	7242881346524944	main.exe	e5efc2b91c0bc484
+30	970	7242884101590676	CMakeFiles/main.dir/src/main.cpp.obj	a0bc8f54692ead63
+971	1194	7242884103805870	main.exe	e5efc2b91c0bc484
+31	1003	7242886816244452	CMakeFiles/main.dir/src/main.cpp.obj	a0bc8f54692ead63
+1004	1254	7242886818714420	main.exe	e5efc2b91c0bc484

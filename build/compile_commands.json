@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/zardo/Desktop/Program/cpp/LabProgrammazioneRobot-main/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/zardo/Desktop/Program/cpp/LabProgrammazioneRobot-main/include -g -o CMakeFiles\\main.dir\\src\\main.cpp.obj -c C:\\Users\\zardo\\Desktop\\Program\\cpp\\LabProgrammazioneRobot-main\\src\\main.cpp",
+  "file": "C:\\Users\\zardo\\Desktop\\Program\\cpp\\LabProgrammazioneRobot-main\\src\\main.cpp",
+  "output": "CMakeFiles\\main.dir\\src\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/zardo/Desktop/Program/cpp/LabProgrammazioneRobot-main/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/zardo/Desktop/Program/cpp/LabProgrammazioneRobot-main/include -g -o CMakeFiles\\main.dir\\src\\Robot.cpp.obj -c C:\\Users\\zardo\\Desktop\\Program\\cpp\\LabProgrammazioneRobot-main\\src\\Robot.cpp",
+  "file": "C:\\Users\\zardo\\Desktop\\Program\\cpp\\LabProgrammazioneRobot-main\\src\\Robot.cpp",
+  "output": "CMakeFiles\\main.dir\\src\\Robot.cpp.obj"
+},
+{
+  "directory": "C:/Users/zardo/Desktop/Program/cpp/LabProgrammazioneRobot-main/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/zardo/Desktop/Program/cpp/LabProgrammazioneRobot-main/include -g -o CMakeFiles\\main.dir\\src\\RandomRobot.cpp.obj -c C:\\Users\\zardo\\Desktop\\Program\\cpp\\LabProgrammazioneRobot-main\\src\\RandomRobot.cpp",
+  "file": "C:\\Users\\zardo\\Desktop\\Program\\cpp\\LabProgrammazioneRobot-main\\src\\RandomRobot.cpp",
+  "output": "CMakeFiles\\main.dir\\src\\RandomRobot.cpp.obj"
+},
+{
+  "directory": "C:/Users/zardo/Desktop/Program/cpp/LabProgrammazioneRobot-main/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/zardo/Desktop/Program/cpp/LabProgrammazioneRobot-main/include -g -o CMakeFiles\\main.dir\\src\\RightHandRuleRobot.cpp.obj -c C:\\Users\\zardo\\Desktop\\Program\\cpp\\LabProgrammazioneRobot-main\\src\\RightHandRuleRobot.cpp",
+  "file": "C:\\Users\\zardo\\Desktop\\Program\\cpp\\LabProgrammazioneRobot-main\\src\\RightHandRuleRobot.cpp",
+  "output": "CMakeFiles\\main.dir\\src\\RightHandRuleRobot.cpp.obj"
+},
+{
+  "directory": "C:/Users/zardo/Desktop/Program/cpp/LabProgrammazioneRobot-main/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/zardo/Desktop/Program/cpp/LabProgrammazioneRobot-main/include -g -o CMakeFiles\\main.dir\\src\\Maze.cpp.obj -c C:\\Users\\zardo\\Desktop\\Program\\cpp\\LabProgrammazioneRobot-main\\src\\Maze.cpp",
+  "file": "C:\\Users\\zardo\\Desktop\\Program\\cpp\\LabProgrammazioneRobot-main\\src\\Maze.cpp",
+  "output": "CMakeFiles\\main.dir\\src\\Maze.cpp.obj"
+}
+]
